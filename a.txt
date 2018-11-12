@@ -1,0 +1,6 @@
+to insert press "i"
+after editing press "esc"
+then to save and exit press ":wq"
+
+to just exit press ":q"
+
